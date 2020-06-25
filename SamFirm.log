@@ -1,0 +1,43 @@
+
+16/05/2020 11:33:09
+SamFirm v0.3.6.0
+
+
+16/05/2020 11:33:10
+SamFirm v0.3.6.0
+
+
+16/05/2020 11:34:27
+SamFirm v0.3.6.0
+Checking firmware for SM-G532M/TGP/G532MUMU1ASA1/G532MUWM1ATC1/G532MUBU1ASA1/G532MUMU1ASA1
+Model: SM-G532M
+Version: G532MUMU1ASA1/G532MUWM1ATC1/G532MUBU1ASA1/G532MUMU1ASA1
+OS: Marshmallow(Android 6.0.1)
+Filename: SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4
+Size: 1752420624 bytes
+LogicValue: g0xpca2e84slwt29
+
+
+Filename: C:\Users\pc\Desktop\SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4
+Trying to download SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4 to C:\Users\pc\Desktop\SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4
+Download finished
+
+Checking CRC32...
+Success: CRC match!
+
+Decrypting firmware...
+Decryption finished
+Filename: C:\Users\pc\Documents\SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4
+Trying to download SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4 to C:\Users\pc\Documents\SM-G532M_1_20200428153542_w7cag72l88_fac.zip.enc4
+Download finished
+
+Checking CRC32...
+Success: CRC match!
+
+Decrypting firmware...
+Decryption finished
+
+
+16/05/2020 11:54:26
+SamFirm v0.3.6.0
+
